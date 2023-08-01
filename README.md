@@ -1,7 +1,8 @@
-![Banner](https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png)
 
-<div style="border-radius: 10px; overflow: hidden;" width="1000" height="400">
-  ![Banner](https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png)
+
+<div style="border-radius: 10px; overflow: hidden;" width="1000" height="350">
+<img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png" alt="Texto alternativo">
+
 </div>
 
 About me 🤖: 
