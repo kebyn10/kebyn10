@@ -1,9 +1,8 @@
 
 
-<div style="border-radius: 10px; overflow: hidden;" >
-<img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png" alt="Texto alternativo" width="1000" height="350">
 
-</div>
+<img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png" alt="Texto alternativo" width="900" height="350">
+
 
 About me 🤖: 
 I interned as a full stack developer. I am interested in learning AI, web, mobile devices and I would like to 🤔 increase my knowledge in these technologies.
