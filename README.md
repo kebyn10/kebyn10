@@ -1,9 +1,7 @@
 ![Aditya Vikram Singh Banner](https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png)
 
-### About me🧑:
-I am Computer Engineering student and a Certified Java Developer by CCA(Cambridge Certification Authority).<br/>
-I have done Internship as a FullStack Developer as well as Website Tester.<br/>
-I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in these Technologies.
+###About me 🤖: 
+I interned as a full stack developer. I am interested in learning AI, web, mobile devices and I would like to 🤔 increase my knowledge in these technologies.
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690890010/posts/minimalism-night-dog-computer-wallpaper-preview_usll1q.jpg" width="400" height="280" />
 
