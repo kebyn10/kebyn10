@@ -1,9 +1,8 @@
 
 
-<center>
 
-  <img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png" alt="Texto alternativo" width="900" height="350">
-</center>
+  <img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png" alt="Texto alternativo" width="1000" height="350">
+
 
 
 
