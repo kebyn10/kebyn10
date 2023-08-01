@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png" alt="my banner" width="800" height="200">
+<img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690889998/posts/Captura_de_pantalla_2023-08-01_063718_srxkzb.png" alt="my banner" height="500">
 
 
 ##About me 🤖: 
