@@ -9,8 +9,7 @@
 About me 🤖: 
 I interned as a full stack developer. I am interested in learning AI, web, mobile devices and I would like to 🤔 increase my knowledge in these technologies.
 
-<img align="right" alt="GIF" src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690890010/posts/minimalism-night-dog-computer-wallpaper-preview_usll1q.jpg" width="400" height="280" />
-
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 👋 Hello, world!
 
 About Me:
