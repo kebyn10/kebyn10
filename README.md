@@ -15,7 +15,7 @@ I interned as a full stack developer. I am interested in learning AI, web, mobil
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="280" />
 👋 Hello, world!
 
-About Me:
+
 - 💻 Junior Programmer working in a digital marketing company, developing AI for copywriting.
 - 🌐 Seeking to collaborate on projects using the MERN stack and everything related to the web.
 - 📱 Eager to learn native mobile development, one of my goals for this year.
