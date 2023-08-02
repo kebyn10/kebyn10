@@ -39,7 +39,7 @@ Let's build the future together! 🌟
 - **Back-End Development**:
 
    
-   ![nodedotjs](https://img.shields.io/badge/Node.js%20-%339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+   ![nodedotjs](https://img.shields.io/badge/NodeJS%20-%339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
   
