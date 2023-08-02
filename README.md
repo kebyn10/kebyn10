@@ -50,7 +50,7 @@ Let's build the future together! 🌟
 
 - **Cloud Hosting**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Rayil Way](https://img.shields.io/badge/railway-%#0B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
     
 <br>
 
