@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690946514/posts/big_bang_code_ie4d00.png" alt="Texto alternativo" width="900" height="400">
+  <img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690946514/posts/big_bang_code_ie4d00.png" alt="Texto alternativo" width="800" height="350">
 
 
 </p>
