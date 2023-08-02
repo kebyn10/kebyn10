@@ -7,9 +7,17 @@
 </p>
 
 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-**About me** 🤖: 
+## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me🤖**
+
+<picture>
+  <source media="(max-width: 767px)" srcset="">
+  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
+</picture>
+
+<br>
+
+
 I interned as a full stack developer. I am interested in learning AI, web, mobile devices and I would like to 🤔 increase my knowledge in these technologies.
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="280" />
