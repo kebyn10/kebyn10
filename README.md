@@ -8,12 +8,9 @@
 
 
 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me🤖**
+ <picture><img src="./assets/mdImages/about_me.gif" width=50px></picture> **About me🤖**
 
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
-</picture>
+
 
 <br>
 
