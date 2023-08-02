@@ -9,7 +9,7 @@
 
 
 
-<img src = "./assets/mdImages/about_me.gif" width = 50px> **About me🤖**
+<img src = "https://res.cloudinary.com/dqrwt5fo7/video/upload/v1690976943/posts/WhatsApp_Video_2023-08-02_at_6.46.11_AM_nco2ip.mp4" width = 50px> **About me🤖**
 
 <br>
 
