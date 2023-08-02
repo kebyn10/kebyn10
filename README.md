@@ -6,8 +6,6 @@
 
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-
 **About me** 🤖: 
 I interned as a full stack developer. I am interested in learning AI, web, mobile devices and I would like to 🤔 increase my knowledge in these technologies.
 
