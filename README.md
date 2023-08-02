@@ -38,7 +38,9 @@ Let's build the future together! 🌟
 
 - **Front-End Development**:
 
-   ![NodeJS](https://img.shields.io/badge/NodeJS%20-%#339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+   
+   ![nodedotjs](https://img.shields.io/badge/nodedotjs%20-%339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
   
 
