@@ -38,7 +38,7 @@ Let's build the future together! 🌟
 
 - **Frameworks**:
     
-    ![React](https://miro.medium.com/v2/resize:fit:1200/0*p4OJ29rbtqDvpLU7.png?style=for-the-badge&logo=c&logoColor=white)
+    ![React](https://miro.medium.com/v2/resize:fit:300/0*p4OJ29rbtqDvpLU7.png?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
