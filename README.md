@@ -38,7 +38,7 @@ Let's build the future together! 🌟
 
 - **Frameworks**:
     
-    ![React](https://blog.digital-pineapple.com.mx/wp-content/uploads/2021/01/0_oZLL-N4dGNlBe4Oh.png=300x)
+    ![React]([https://blog.digital-pineapple.com.mx/wp-content/uploads/2021/01/0_oZLL-N4dGNlBe4Oh.png=300x](https://res.cloudinary.com/practicaldev/image/fetch/s--BxQ7CA2Z--/c_imagga_scale,f_auto,fl_progressive,h_100,q_auto,w_100/https://dev-to-uploads.s3.amazonaws.com/i/grki97glctbmjydzqejw.png))
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
