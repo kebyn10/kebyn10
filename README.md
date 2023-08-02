@@ -36,10 +36,10 @@ Let's build the future together! 🌟
 
 <p align="center">
 
-- **Front-End Development**:
+- **Back-End Development**:
 
    
-   ![nodedotjs](https://img.shields.io/badge/nodedotjs%20-%339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+   ![nodedotjs](https://img.shields.io/badge/Node.js%20-%339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
   
