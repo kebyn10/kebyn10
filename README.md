@@ -38,7 +38,7 @@ Let's build the future together! 🌟
 
 - **Frameworks**:
     
-    ![React](https://blog.wildix.com/wp-content/uploads/2020/06/react-logo%20-%2300599C.jpg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    <img src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo%.jpg" with="10">
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
