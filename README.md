@@ -50,7 +50,7 @@ Let's build the future together! 🌟
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Typescript](https://img.shields.io/badge/Typescript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI%20-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI%20-%009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
   
