@@ -49,6 +49,9 @@ Let's build the future together! 🌟
    ![nodedotjs](https://img.shields.io/badge/NodeJS%20-%339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Typescript](https://img.shields.io/badge/Typescript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+  
 
 
   
