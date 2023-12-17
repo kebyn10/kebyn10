@@ -50,6 +50,8 @@ Let's build the future together! 🌟
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Typescript](https://img.shields.io/badge/Typescript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI%20-%23007ACC.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
   
 
@@ -64,6 +66,8 @@ Let's build the future together! 🌟
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+
   
 
 <br>
@@ -71,12 +75,14 @@ Let's build the future together! 🌟
 - **Cloud Hosting**:
   
 ![Rayil Way](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean%20-%230167FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+
 
     
 <br>
 
 - **Softwares and Tools**:
-
+    ![Bitbucket](https://img.shields.io/badge/Bitbucket%20-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
