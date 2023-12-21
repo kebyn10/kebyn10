@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1690946843/posts/final_l40ojb.png" alt="Texto alternativo" width="1000" height="350">
+  <img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1703168252/tvcji1jpqgkqpzd0w2ea.png" alt="Texto alternativo" width="1000" height="350">
 
 
 </p>
