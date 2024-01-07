@@ -75,8 +75,8 @@ Let's build the future together! 🌟
 
 - **Cloud Hosting**:
   
-![Rayil Way](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean%20-%230167FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+  ![Rayil Way](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean%20-%230167FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 
     
