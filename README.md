@@ -9,7 +9,7 @@
 
 
 
-<img src = "https://media1.giphy.com/media/vzJGtYzvCs4mNf4zFa/200w.webp?cid=ecf05e4743k5ykl8qoj0d4vi8ohp9ni9v5bdxwquu9y81j3e&ep=v1_gifs_search&rid=200w.webp&ct=g" width = 50px> **About me🤖**
+<img src = "https://media1.giphy.com/media/vzJGtYzvCs4mNf4zFa/200w.webp?cid=ecf05e4743k5ykl8qoj0d4vi8ohp9ni9v5bdxwquu9y81j3e&ep=v1_gifs_search&rid=200w.webp&ct=g" width = 50px height =400px> **About me🤖**
 
 <br>
 
