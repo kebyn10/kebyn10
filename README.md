@@ -16,7 +16,7 @@
 
 
 
-I interned as a full stack developer. I am interested in learning AI, web, mobile devices and I would like to 🤔 increase my knowledge in these technologies.
+I interned as a full stack developer. I'm interested in learning AI, web, mobile devices and I would like to 🤔 increase my knowledge in these technologies.
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="280" />
 👋 Hello, world!
