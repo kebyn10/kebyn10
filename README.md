@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1703168252/tvcji1jpqgkqpzd0w2ea.png" alt="Texto alternativo" width="1000" height="350">
+  <img src="https://res.cloudinary.com/dqrwt5fo7/image/upload/v1703168252/tvcji1jpqgkqpzd0w2ea.png" alt="Texto alternativo" width="1000" height="250">
 
 
 </p>
@@ -9,7 +9,7 @@
 
 
 
-<img src = "https://media1.giphy.com/media/vzJGtYzvCs4mNf4zFa/200w.webp?cid=ecf05e4743k5ykl8qoj0d4vi8ohp9ni9v5bdxwquu9y81j3e&ep=v1_gifs_search&rid=200w.webp&ct=g" width = 50px height =400px> **About me🤖**
+<img src = "https://media1.giphy.com/media/vzJGtYzvCs4mNf4zFa/200w.webp?cid=ecf05e4743k5ykl8qoj0d4vi8ohp9ni9v5bdxwquu9y81j3e&ep=v1_gifs_search&rid=200w.webp&ct=g" width = 50px > **About me🤖**
 
 <br>
 
